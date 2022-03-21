@@ -4,8 +4,8 @@
 
 ### 🙋‍♀️ A short introduction  
 
-Our orgnization is a new born student team based on University of Nottingham, focused on the **RoboMaster** competition held by **DJI**.  
-We also focus on figuring technical problems that are related to robotics, including:  
+Our organization is a newborn student team based on University of Nottingham, focused on the **RoboMaster** competition held by **DJI**.  
+We also focus on figuring out technical problems that are related to robotics, including:  
   
 1. Hardware Design  
 2. Control Design  
@@ -15,14 +15,14 @@ We also focus on figuring technical problems that are related to robotics, inclu
 6. Decision Making  
 7. Computer Vision  
   
-We will public some of the repositories after we finished the developing process.  
+We will publicize some of the repositories after we finished the developing process.  
 
-### **IF YOU ARE THE TEAM MEMBER:**  
+### **IF YOU ARE A TEAM MEMBER:**  
 
 What we required is:  
-* Create new repositories without contacting the administritor is not permitted, this will cause the repository have a 'entropy increase', if you don't where to commit your program, please contact the manager of the organization.  
+* Create new repositories without contacting the administrator is not permitted, this will cause the repository have an 'entropy increase', if you don't know where to commit your program, please contact the manager of the organization.  
 
-* Binary files shoud not be upload to github, (TODO: homepage in constructing)
+* Binary files shoud not be upload to GitHub, (TODO: homepage in constructing)
 
 <!--
 🌈 Contribution guidelines - how can the community get involved?   
