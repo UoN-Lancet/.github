@@ -23,7 +23,7 @@ We will public some of the repositories after we finished the developing process
 
 * Create new repositories without contacting the owner is not permitted, this will cause the repository have a 'entropy increase', if you don't know where to commit your program, please contact the owners of the organization.  
 
-* Binary files shoud not be upload to github, which will cause your repository hard to manage. To avoid this, please make sure you have [`.gitignore`](../.gitignore) file in your project befor uploading your codes.  
+* Binary files shoud not be upload to github, which will cause your repository hard to manage. To avoid this, please make sure you have [`.gitignore (for STM32 prohects)`](https://github.com/UoN-Lancet/.github/blob/master/.gitignore) file in your project befor uploading your codes.  
 
 * Update your code if you have any changes, even if your code still have bugs to be fixed.  
 
