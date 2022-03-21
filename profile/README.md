@@ -4,8 +4,8 @@
 
 ### 🙋‍♀️ A short introduction  
 
-Our orgnization is a new borned student team based on University of Nottingham, focused on the **RoboMaster** competition held by **DIJ**.  
-We also focused on figuring technical problems that are related to robotics, including:  
+Our orgnization is a new born student team based on University of Nottingham, focused on the **RoboMaster** competition held by **DJI**.  
+We also focus on figuring technical problems that are related to robotics, including:  
   
 1. Hardware Design  
 2. Control Design  
