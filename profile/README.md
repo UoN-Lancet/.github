@@ -27,4 +27,4 @@ We will public some of the repositories after we finished the developing process
 
 * Update your code if you have any changes, even if your code still have bugs to be fixed.  
 
-* When update unstable codes and codes with error, please **do not** pull your codes to the `master` branch. Pull to the `dev` branch instead.
+* When update unstable codes and codes with error, please **do not** push your codes to the `master` branch. Push them to the `dev` branch instead.
